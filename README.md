@@ -1,6 +1,6 @@
-# Project Shawarma
+# Project Rome wasn't build in one day
 
-### Technology used: Reactjs and Material-ui and Figma for designing the web page
+### Technology used: Reactjs and Material-ui and Figma for designing the web page 
 
 ### Duration: 5 hours
 
