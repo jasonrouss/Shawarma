@@ -6,13 +6,13 @@ const useStyles = makeStyles((theme) => ({
   },
   //Heading Appbar
   app: {
-    background: "#de5246",
+    background:  "#272C34",
     height: 120,
   },
   appBar: {
     top: "auto",
     bottom: 0,
-    background: "#de5246",
+    background:  "#272C34",
   },
   title: {
     color: " #F9D56E",
@@ -31,7 +31,7 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(6),
     marginLeft: theme.spacing(8),
     color: "#ffff",
-    background: "#272C34",
+    background: "#323843",
   },
 
   cards: {
@@ -61,7 +61,7 @@ const useStyles = makeStyles((theme) => ({
   //Second Main
   contSec: {
     padding: theme.spacing(6),
-    background: "#272C34",
+    background: "#323843",
     color: "white",
     textAlign: "left",
   },
