@@ -9,7 +9,7 @@
 
 ### Solution: Re-installing the packages to a fresh new folder with the same content fixed the solution.
 
-##Note: This is my very first project in my fullstack web journey , I combined my love for shawarma (with extra toum :p ) and my front end skills to create this project.
+## Note: This is my very first project in my fullstack web journey , I combined my love for shawarma (with extra toum :p ) and my front end skills to create this project.
 
 
 
